@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+/* Clearwater Africa Design System */
+
+@theme {
+  /* Primary Colors */
+  --color-primary: #0A4C6E;
+  --color-primary-dark: #083A52;
+  --color-primary-light: #0E5F87;
+
+  /* Secondary Colors */
+  --color-secondary: #00D4FF;
+  --color-secondary-dark: #00A8CC;
+  --color-secondary-light: #33DDFF;
+
+  /* Accent Colors */
+  --color-accent: #FF6B35;
+  --color-accent-dark: #E55A2B;
+  --color-accent-light: #FF8C5F;
+
+  /* Semantic Colors */
+  --color-success: #28A745;
+  --color-error: #DC3545;
+  --color-warning: #FFC107;
+
+  /* Typography */
+  --font-heading: 'Poppins', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+
+  /* Custom Font Sizes */
+  --font-size-hero: 60px;
+  --font-size-section: 48px;
+  --font-size-subsection: 32px;
+  --font-size-card-title: 24px;
+
+  /* Spacing for sections */
+  --spacing-section-mobile: 4rem;
+  --spacing-section-tablet: 6rem;
+  --spacing-section-desktop: 8rem;
+}
+
+/* Base Styles */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  color: #2D3436;
+  background-color: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  color: var(--color-primary);
+  line-height: 1.2;
+}
+
+/* Focus Styles for Accessibility */
+*:focus-visible {
+  outline: 2px solid var(--color-secondary);
+  outline-offset: 2px;
+}
+
+/* Smooth Transitions */
+a, button {
+  transition: all 200ms ease-in-out;
+}
