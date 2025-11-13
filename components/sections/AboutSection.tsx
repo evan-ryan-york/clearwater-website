@@ -23,7 +23,7 @@ export function AboutSection() {
           {/* <div className="float-left mr-8 mb-4">
             <Image
               src="/images/founder-photo.jpg"
-              alt="Ryan York, Founder of Clearwater Africa"
+              alt="Ryan York, Founder of Clearwater"
               width={300}
               height={300}
               className="rounded-lg shadow-lg"
@@ -31,22 +31,44 @@ export function AboutSection() {
           </div> */}
 
           <p className="text-lg md:text-xl leading-relaxed">
-            Clearwater Africa is founded by Ryan York, a systems builder with 20
-            years of experience scaling complex operations—from education networks
+            Clearwater is founded by Ryan York, a systems builder with 20 years
+            of experience scaling complex operations—from education networks
             serving 10,000+ students to technology platforms used by 50,000+
             people.
           </p>
 
-          <p className="text-lg md:text-xl leading-relaxed">
-            After seeing firsthand how water scarcity constrains communities
-            across Africa, Ryan is dedicating the next chapter of his career to
-            solving it. Clearwater Africa is the first step in a 20-year mission
-            to make water access as reliable as electricity.
+          <p className="text-lg md:text-xl leading-relaxed font-semibold text-[#0A4C6E]">
+            Why water? Why now?
           </p>
 
-          <p className="text-xl md:text-2xl font-semibold text-[#0A4C6E] leading-relaxed">
-            We&apos;re building infrastructure, not just an app. We&apos;re here
-            for the long haul.
+          <p className="text-lg md:text-xl leading-relaxed">
+            After 15 years in education, Ryan kept running into a deeper barrier
+            he couldn&apos;t solve from inside a classroom: students struggling
+            not because they lacked intelligence, but because they lacked
+            stability. The chaos of poverty consumed the cognitive energy that
+            should have been available for learning.
+          </p>
+
+          <p className="text-lg md:text-xl leading-relaxed">
+            Right now, 2 billion people—one out of every four human beings—lack
+            reliable access to clean water. Women and girls spend 200 million
+            hours every day collecting water. More than 1,000 children die every
+            day from water-related diseases.
+          </p>
+
+          <p className="text-lg md:text-xl leading-relaxed">
+            This happens on a planet that is 71% water.
+          </p>
+
+          <p className="text-lg md:text-xl leading-relaxed">
+            It is an engineering absurdity. A systemic failure so massive that
+            Ryan couldn&apos;t look away.
+          </p>
+
+          <p className="text-lg md:text-xl leading-relaxed">
+            Clearwater is the first step in a mission to make water access
+            universal. We&apos;re building infrastructure, not just an app.
+            We&apos;re here for the long haul.
           </p>
         </div>
       </div>

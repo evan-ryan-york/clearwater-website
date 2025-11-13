@@ -335,7 +335,7 @@ Before deploying, verify:
 **Content:**
 - [ ] All copy is final and approved
 - [ ] Video is final version
-- [ ] Email addresses are correct (info@clearwaterafrica.com)
+- [ ] Email addresses are correct (ryan@clearwaterafrica.com)
 - [ ] Social links are correct (or placeholders removed)
 - [ ] Founder info is accurate
 

@@ -716,7 +716,7 @@ const ctas = [
     title: "I'm a Driver or Fleet Owner",
     description: 'Learn how Clearwater can help you save time, reduce costs, and grow your business.',
     buttonText: 'Contact Us',
-    buttonLink: 'mailto:info@clearwaterafrica.com?subject=Driver Inquiry'
+    buttonLink: 'mailto:ryan@clearwaterafrica.com?subject=Driver Inquiry'
   },
   {
     title: "I'm a Business or Homeowner",
@@ -728,7 +728,7 @@ const ctas = [
     title: "I'm a Partner or Investor",
     description: "Interested in supporting our mission? Let's talk about how we can work together.",
     buttonText: 'Get in Touch',
-    buttonLink: 'mailto:info@clearwaterafrica.com?subject=Partnership Inquiry'
+    buttonLink: 'mailto:ryan@clearwaterafrica.com?subject=Partnership Inquiry'
   }
 ];
 
@@ -822,11 +822,11 @@ export function Footer() {
         {/* Contact Info */}
         <div className="flex flex-col md:flex-row justify-center items-center gap-6 mb-8">
           <a
-            href="mailto:info@clearwaterafrica.com"
+            href="mailto:ryan@clearwaterafrica.com"
             className="flex items-center gap-2 hover:text-cyan-400 transition-colors"
           >
             <Mail className="w-5 h-5" />
-            info@clearwaterafrica.com
+            ryan@clearwaterafrica.com
           </a>
 
           <div className="flex items-center gap-2">

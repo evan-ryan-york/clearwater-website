@@ -16,7 +16,7 @@ const ctas = [
     description:
       'Learn how Clearwater can help you save time, reduce costs, and grow your business.',
     buttonText: 'Contact Us',
-    buttonLink: 'mailto:info@clearwaterafrica.com?subject=Driver%20Inquiry',
+    buttonLink: 'mailto:ryan@clearwaterafrica.com?subject=Driver%20Inquiry',
   },
   {
     title: "I'm a Business or Homeowner",
@@ -30,14 +30,14 @@ const ctas = [
     description:
       "Interested in supporting our mission? Let's talk about how we can work together.",
     buttonText: 'Get in Touch',
-    buttonLink: 'mailto:info@clearwaterafrica.com?subject=Partnership%20Inquiry',
+    buttonLink: 'mailto:ryan@clearwaterafrica.com?subject=Partnership%20Inquiry',
   },
 ];
 
 export function GetInvolvedSection() {
   return (
     <Section background="white" id="get-involved">
-      <SectionHeader title="Join Us in Building Clearwater Africa" />
+      <SectionHeader title="Join Us in Building Clearwater" />
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
         {ctas.map((cta, index) => (

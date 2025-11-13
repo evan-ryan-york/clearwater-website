@@ -20,27 +20,22 @@ export function LaunchTimelineSection() {
         {/* Body Content */}
         <div className="prose prose-lg max-w-none mb-12 space-y-6 text-gray-700">
           <p className="text-lg md:text-xl leading-relaxed">
-            Clearwater Africa is launching in Greater Accra with a pilot program
-            designed in partnership with Ghana Water Limited.
+            Clearwater is launching in Greater Accra in 2026.
           </p>
 
           <p className="text-lg md:text-xl leading-relaxed">
             Our approach is methodical: We&apos;re spending 2025 building
             relationships with depot owners, recruiting driver partners, and
-            working with commercial clients to ensure the platform serves real
-            needs from day one.
+            signing commercial clients to ensure the platform serves real needs
+            from day one.
           </p>
 
           <p className="text-lg md:text-xl leading-relaxed">
             This isn&apos;t about disruption—it&apos;s about coordination.
-            We&apos;re organizing the existing market to work better for everyone:
-            drivers save time and fuel, customers get reliable service, and Ghana
-            Water gains the transparency tools they need to manage the network
+            We&apos;re organizing the existing informal market to work better for
+            everyone: drivers save time and fuel, customers get reliable service,
+            and depots gain the operational tools to manage their business more
             effectively.
-          </p>
-
-          <p className="text-xl md:text-2xl font-semibold text-[#0A4C6E] leading-relaxed">
-            Starting in Accra. Scaling across Africa.
           </p>
         </div>
 

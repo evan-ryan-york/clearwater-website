@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "check": "pnpm lint && pnpm typecheck",
+    "predeploy": "pnpm check && pnpm build"
   },
   "dependencies": {
     "next": "16.0.1",

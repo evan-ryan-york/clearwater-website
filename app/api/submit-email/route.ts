@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { supabase } from '@/lib/supabase/client';
+import { supabaseServer } from '@/lib/supabase/server';
 import { emailSubmissionSchema } from '@/lib/validation/emailSchema';
 
 export async function POST(request: NextRequest) {
@@ -15,7 +15,7 @@ export async function POST(request: NextRequest) {
         {
           success: false,
           error: 'Invalid request data',
-          details: validation.error.errors,
+          details: validation.error.issues,
         },
         { status: 400 }
       );
@@ -27,7 +27,7 @@ export async function POST(request: NextRequest) {
     const userAgent = request.headers.get('user-agent') || null;
 
     // Insert into Supabase
-    const { data, error } = await supabase
+    const { data, error } = await supabaseServer
       .from('email_signups')
       .insert([
         {

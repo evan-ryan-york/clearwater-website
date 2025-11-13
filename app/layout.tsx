@@ -18,9 +18,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'Clearwater Africa | Making Water Delivery Work for Everyone',
+  title: 'Clearwater Africa | Water Delivery You Can Count On',
   description:
-    'Clearwater brings transparency and reliability to Ghana\'s water delivery network—connecting depots, drivers, and customers through digital coordination. Launching in Accra 2026.',
+    'Clearwater brings transparency and reliability to water delivery in Ghana. Launching in Accra 2026.',
   keywords: [
     'water delivery',
     'Ghana',
@@ -35,16 +35,16 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://clearwaterafrica.com',
-    title: 'Clearwater Africa | Making Water Delivery Work for Everyone',
+    title: 'Clearwater Africa | Water Delivery You Can Count On',
     description:
-      'Clearwater brings transparency and reliability to Ghana\'s water delivery network. Launching in Accra 2026.',
+      'Clearwater brings transparency and reliability to water delivery in Ghana. Launching in Accra 2026.',
     siteName: 'Clearwater Africa',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Clearwater Africa | Making Water Delivery Work for Everyone',
+    title: 'Clearwater Africa | Water Delivery You Can Count On',
     description:
-      'Clearwater brings transparency and reliability to Ghana\'s water delivery network. Launching in Accra 2026.',
+      'Clearwater brings transparency and reliability to water delivery in Ghana. Launching in Accra 2026.',
   },
 };
 

@@ -5,7 +5,7 @@
  * Simple, professional design
  */
 
-import { Mail, MapPin, Linkedin, Twitter } from 'lucide-react';
+import { Mail, MapPin, Linkedin, Facebook, BookOpen } from 'lucide-react';
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
@@ -26,11 +26,11 @@ export function Footer() {
         {/* Contact Info */}
         <div className="flex flex-col md:flex-row justify-center items-center gap-6 mb-8">
           <a
-            href="mailto:info@clearwaterafrica.com"
+            href="mailto:ryan@clearwaterafrica.com"
             className="flex items-center gap-2 hover:text-[#00D4FF] transition-colors"
           >
             <Mail className="w-5 h-5 flex-shrink-0" />
-            <span>info@clearwaterafrica.com</span>
+            <span>ryan@clearwaterafrica.com</span>
           </a>
 
           <div className="flex items-center gap-2">
@@ -42,22 +42,31 @@ export function Footer() {
         {/* Social Links */}
         <div className="flex justify-center gap-6 mb-8" role="navigation" aria-label="Social media links">
           <a
-            href="https://linkedin.com/company/clearwater-africa"
+            href="https://www.linkedin.com/in/ryan-york-148356a9/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#00D4FF] transition-colors"
-            aria-label="Visit Clearwater Africa on LinkedIn (opens in new tab)"
+            aria-label="Visit Ryan York on LinkedIn (opens in new tab)"
           >
             <Linkedin className="w-6 h-6" aria-hidden="true" />
           </a>
           <a
-            href="https://twitter.com/clearwaterafrica"
+            href="https://ryan584888.substack.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#00D4FF] transition-colors"
-            aria-label="Follow Clearwater Africa on Twitter (opens in new tab)"
+            aria-label="Read Clearwater Africa Blog on Substack (opens in new tab)"
           >
-            <Twitter className="w-6 h-6" aria-hidden="true" />
+            <BookOpen className="w-6 h-6" aria-hidden="true" />
+          </a>
+          <a
+            href="https://www.facebook.com/profile.php?id=61583881946200"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-[#00D4FF] transition-colors"
+            aria-label="Follow Clearwater Africa on Facebook (opens in new tab)"
+          >
+            <Facebook className="w-6 h-6" aria-hidden="true" />
           </a>
         </div>
 

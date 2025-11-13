@@ -33,23 +33,19 @@ export function HeroSection() {
       </div>
 
       {/* Dark Overlay for text readability */}
-      <div className="absolute inset-0 bg-black/40" />
+      <div className="absolute inset-0 bg-black/50" />
 
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 md:px-6 lg:px-8 text-center">
         <div className="max-w-4xl mx-auto space-y-6 md:space-y-8">
           {/* Main Headline */}
-          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold font-heading text-white leading-tight">
-            Making Water Delivery Work
-            <br />
-            for Everyone
+          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold font-heading !text-white leading-tight">
+            Water Delivery You Can Count On
           </h1>
 
           {/* Subtitle */}
-          <p className="text-lg sm:text-xl md:text-2xl text-white/90 max-w-3xl mx-auto leading-relaxed px-4">
-            Clearwater brings transparency and reliability to Ghana&apos;s water
-            delivery network—connecting depots, drivers, and customers through
-            digital coordination.
+          <p className="text-xl sm:text-2xl md:text-3xl text-white max-w-3xl mx-auto leading-relaxed px-4">
+            Clearwater brings transparency and reliability to water delivery in Ghana.
           </p>
 
           {/* Email Capture Form */}
@@ -57,7 +53,7 @@ export function HeroSection() {
             <EmailCaptureForm
               source="hero"
               placeholder="Enter your email"
-              buttonText="Get Early Access"
+              buttonText="Subscribe for Updates"
               variant="dark"
             />
           </div>

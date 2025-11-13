@@ -11,11 +11,10 @@
 
 import { SolutionCard } from '@/components/SolutionCard';
 import { Section, SectionHeader } from '@/components/ui';
-import { Smartphone, CalendarCheck, LayoutDashboard } from 'lucide-react';
 
 const solutions = [
   {
-    icon: Smartphone,
+    imageSrc: '/images/trucker.png',
     audience: 'FOR DRIVERS',
     title: 'Find Water Faster',
     features: [
@@ -27,28 +26,28 @@ const solutions = [
     tagline: 'Save fuel. Earn more. Work smarter.',
   },
   {
-    icon: CalendarCheck,
+    imageSrc: '/images/purchaser.png',
     audience: 'FOR CUSTOMERS',
     title: 'Reliable Delivery',
     features: [
       'Transparent pricing',
       'Scheduled deliveries',
-      'Verified water sources',
+      'Verified water quality',
       'Digital payment options',
     ],
-    tagline: 'Get water when you need it, from drivers you trust.',
+    tagline: 'Get water when you need it, from sources you trust.',
   },
   {
-    icon: LayoutDashboard,
-    audience: 'FOR DEPOTS & GWL',
+    imageSrc: '/images/gwcl.png',
+    audience: 'FOR DEPOTS',
     title: 'Complete Visibility',
     features: [
       'Real-time transaction monitoring',
       'Automated record-keeping',
       'Demand forecasting',
-      'Revenue transparency',
+      'Inventory management',
     ],
-    tagline: 'Turn operations data into better decisions.',
+    tagline: 'Turn operational data into better decisions.',
   },
 ];
 

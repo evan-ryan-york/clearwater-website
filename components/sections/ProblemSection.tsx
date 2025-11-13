@@ -19,21 +19,21 @@ const problems = [
     title: 'FOR DRIVERS',
     headline: 'Wasted Time & Fuel',
     description:
-      'Drivers waste hours searching for depots with available water, burning fuel and losing income.',
+      'Drivers waste hours searching for depots with available water, burning fuel and losing income while their families wait.',
   },
   {
     icon: Clock,
     title: 'FOR CUSTOMERS',
     headline: 'Unreliable Delivery',
     description:
-      'Homes and businesses struggle with unpredictable delivery times and uncertain water quality.',
+      "Homes and businesses can't plan around water delivery. Uncertain arrival times, opaque pricing, and unknown water quality leave families and businesses struggling.",
   },
   {
     icon: Droplets,
     title: 'FOR THE SYSTEM',
-    headline: 'No Visibility',
+    headline: 'A Market Running on Hope',
     description:
-      'Without digital tracking, Ghana Water and depot owners lack the data needed to serve demand efficiently.',
+      'The informal water market operates on phone calls, cash, and personal relationships. No one has the data needed to coordinate supply and demand efficiently.',
   },
 ];
 

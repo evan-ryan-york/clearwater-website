@@ -25,6 +25,16 @@ export default function Home() {
         Skip to main content
       </a>
 
+      {/* Blog Button - Fixed in upper right */}
+      <a
+        href="https://ryan584888.substack.com/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed top-6 right-6 z-50 px-6 py-3 bg-[#00D4FF] hover:bg-[#00A8CC] text-white font-semibold rounded-md transition-colors shadow-lg"
+      >
+        Blog
+      </a>
+
       <main id="main-content">
         <HeroSection />
         <ProblemSection />

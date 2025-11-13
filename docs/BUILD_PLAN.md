@@ -357,7 +357,7 @@ This document outlines the step-by-step process for building the Clearwater Afri
 
 2. Layout:
    - Company name + tagline
-   - Email: info@clearwaterafrica.com
+   - Email: ryan@clearwaterafrica.com
    - Location: "Launching in Accra, Ghana - 2026"
    - Social media icons (LinkedIn, Twitter/X)
    - Copyright
