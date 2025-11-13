@@ -6,7 +6,7 @@
  */
 
 import { Section } from '@/components/ui';
-// import Image from 'next/image';
+import Image from 'next/image';
 
 export function AboutSection() {
   return (
@@ -19,16 +19,16 @@ export function AboutSection() {
 
         {/* Content - Can be converted to 2-column with photo later */}
         <div className="space-y-6 text-gray-700">
-          {/* Optional: Founder Photo */}
-          {/* <div className="float-left mr-8 mb-4">
+          {/* Founder Photo */}
+          <div className="float-left mr-8 mb-4">
             <Image
-              src="/images/founder-photo.jpg"
+              src="/images/ryan-headshot.png"
               alt="Ryan York, Founder of Clearwater"
               width={300}
               height={300}
               className="rounded-lg shadow-lg"
             />
-          </div> */}
+          </div>
 
           <p className="text-lg md:text-xl leading-relaxed">
             Clearwater is founded by Ryan York, a systems builder with 20 years
