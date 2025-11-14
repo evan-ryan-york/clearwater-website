@@ -25,12 +25,25 @@ export default function Home() {
         Skip to main content
       </a>
 
-      {/* Blog Button - Fixed in upper right */}
+      {/* Logo - Upper left */}
+      <a
+        href="/"
+        className="absolute top-6 left-6 z-50"
+        aria-label="Clearwater Africa Home"
+      >
+        <img
+          src="/images/logo.png"
+          alt="Clearwater Africa"
+          className="w-[200px] h-auto"
+        />
+      </a>
+
+      {/* Blog Button - Upper right */}
       <a
         href="https://ryan584888.substack.com/"
         target="_blank"
         rel="noopener noreferrer"
-        className="fixed top-6 right-6 z-50 px-6 py-3 bg-[#00D4FF] hover:bg-[#00A8CC] text-white font-semibold rounded-md transition-colors shadow-lg"
+        className="absolute top-6 right-6 z-50 px-6 py-3 bg-[#00D4FF] hover:bg-[#00A8CC] text-white font-semibold rounded-md transition-colors shadow-lg"
       >
         Blog
       </a>
