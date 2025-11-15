@@ -20,7 +20,7 @@ export function AboutSection() {
         {/* Content - Can be converted to 2-column with photo later */}
         <div className="space-y-6 text-gray-700">
           {/* Founder Photo */}
-          <div className="float-left mr-8 mb-4">
+          <div className="mx-auto mb-6 md:float-left md:mr-8 md:mb-4 w-fit">
             <Image
               src="/images/ryan-headshot.png"
               alt="Ryan York, Founder of Clearwater"

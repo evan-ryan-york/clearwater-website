@@ -109,7 +109,7 @@ export function EmailCaptureForm({
   }
 
   const inputClasses = cn(
-    'flex-1 h-12 md:h-14 px-4 md:px-6 text-base md:text-lg rounded-md',
+    'w-full md:flex-1 h-12 md:h-14 px-4 md:px-6 text-base md:text-lg rounded-md',
     'border-2 transition-colors duration-200',
     'focus:outline-none focus:ring-2 focus:ring-[#00D4FF] focus:border-transparent',
     'disabled:cursor-not-allowed disabled:opacity-50',
@@ -127,7 +127,7 @@ export function EmailCaptureForm({
     'focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#00D4FF]',
     'disabled:cursor-not-allowed disabled:opacity-50',
     'bg-[#00D4FF] hover:bg-[#00A8CC] text-white',
-    'whitespace-nowrap flex-shrink-0'
+    'whitespace-nowrap w-full md:w-auto md:flex-shrink-0'
   );
 
   return (
@@ -138,7 +138,7 @@ export function EmailCaptureForm({
         className
       )}
     >
-      <div className="flex flex-row gap-3 w-full items-start">
+      <div className="flex flex-col md:flex-row gap-3 w-full items-start">
         <input
           type="email"
           placeholder={placeholder}
