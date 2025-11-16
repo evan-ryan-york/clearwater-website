@@ -28,7 +28,7 @@ export default function Home() {
       {/* Logo - Upper left */}
       <a
         href="/"
-        className="absolute -top-2 md:top-0 left-0 md:left-2 z-50"
+        className="absolute top-4 md:top-6 left-4 md:left-6 z-50"
         aria-label="Clearwater Africa Home"
       >
         <img
