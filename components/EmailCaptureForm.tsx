@@ -12,6 +12,7 @@ import { zodResolver } from '@hookform/resolvers/zod';
 import { emailSchema, type EmailFormData } from '@/lib/validation/emailSchema';
 import { useState } from 'react';
 import { cn } from '@/lib/utils';
+import { posthog } from '@/lib/analytics/posthog';
 
 export interface EmailCaptureFormProps {
   source: 'hero' | 'timeline' | 'cta';
@@ -71,10 +72,13 @@ export function EmailCaptureForm({
 
       console.log('Email submitted successfully:', result);
 
-      // TODO: Track with PostHog (Phase 6)
-      // if (typeof window !== 'undefined' && window.posthog) {
-      //   window.posthog.capture('email_submitted', { source });
-      // }
+      // Track with PostHog
+      if (typeof window !== 'undefined') {
+        posthog.capture('email_submitted', {
+          source,
+          email_hash: result.data?.id, // Using the database ID as a reference
+        });
+      }
 
       setSubmitStatus('success');
       reset();

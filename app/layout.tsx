@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Inter, Poppins } from 'next/font/google';
 import './globals.css';
+import { PostHogProvider } from '@/components/PostHogProvider';
 
 // Font configurations
 const inter = Inter({
@@ -64,7 +65,7 @@ export const metadata: Metadata = {
     siteName: 'Clearwater Africa',
     images: [
       {
-        url: '/images/og-image.jpg',
+        url: '/images/clearwater-social.png',
         width: 1200,
         height: 630,
         alt: 'Clearwater Africa - Water Delivery You Can Count On',
@@ -76,7 +77,7 @@ export const metadata: Metadata = {
     title: 'Clearwater Africa | Water Delivery You Can Count On',
     description:
       'Making water delivery work for everyone in Ghana. Transparent pricing, verified quality, reliable service. Launching in Accra 2026.',
-    images: ['/images/og-image.jpg'],
+    images: ['/images/clearwater-social.png'],
   },
 };
 
@@ -133,7 +134,9 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
       </head>
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <PostHogProvider>{children}</PostHogProvider>
+      </body>
     </html>
   );
 }
