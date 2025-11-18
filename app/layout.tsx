@@ -102,7 +102,7 @@ export default function RootLayout({
       image: 'https://clearwaterafrica.com/images/ryan-headshot.png',
       sameAs: [
         'https://www.linkedin.com/in/ryan-york-148356a9/',
-        'https://ryan584888.substack.com/'
+        'https://clearwaterafrica.substack.com/'
       ]
     },
     contactPoint: {
@@ -118,7 +118,7 @@ export default function RootLayout({
     sameAs: [
       'https://www.linkedin.com/in/ryan-york-148356a9/',
       'https://www.facebook.com/profile.php?id=61583881946200',
-      'https://ryan584888.substack.com/'
+      'https://clearwaterafrica.substack.com/'
     ],
     areaServed: {
       '@type': 'Place',

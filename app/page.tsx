@@ -40,7 +40,7 @@ export default function Home() {
 
       {/* Blog Button - Upper right */}
       <a
-        href="https://ryan584888.substack.com/"
+        href="https://clearwaterafrica.substack.com/"
         target="_blank"
         rel="noopener noreferrer"
         className="absolute top-4 md:top-6 right-4 md:right-6 z-50 px-6 py-3 bg-[#00D4FF] hover:bg-[#00A8CC] text-white font-semibold rounded-md transition-colors shadow-lg"

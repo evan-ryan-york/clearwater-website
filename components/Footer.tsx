@@ -51,7 +51,7 @@ export function Footer() {
             <Linkedin className="w-6 h-6" aria-hidden="true" />
           </a>
           <a
-            href="https://ryan584888.substack.com/"
+            href="https://clearwaterafrica.substack.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#00D4FF] transition-colors"
