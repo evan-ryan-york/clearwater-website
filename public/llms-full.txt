@@ -1,0 +1,361 @@
+# Clearwater Africa - Complete Documentation for LLMs
+
+> Making water delivery work for everyone in Ghana
+
+Last Updated: 2025-11-13
+Website: https://clearwaterafrica.com
+Contact: ryan@clearwaterafrica.com
+
+---
+
+## Table of Contents
+
+1. [Overview](#overview)
+2. [The Problem](#the-problem)
+3. [The Solution](#the-solution)
+4. [How It Works](#how-it-works)
+5. [Launch Timeline](#launch-timeline)
+6. [About the Founder](#about-the-founder)
+7. [Getting Involved](#getting-involved)
+8. [Contact Information](#contact-information)
+
+---
+
+## Overview
+
+### Company Information
+
+- **Name**: Clearwater Africa (also known as Clearwater)
+- **Tagline**: Water Delivery You Can Count On
+- **Mission**: Making water delivery work for everyone
+- **Location**: Accra, Ghana
+- **Launch Date**: 2026 (Greater Accra Region)
+- **Founding Year**: 2025
+- **Founder**: Ryan York
+- **Industry**: Water delivery, logistics technology, infrastructure
+
+### What We Do
+
+Clearwater brings transparency and reliability to water delivery in Ghana. We're building a technology platform that connects water depots, tanker drivers, and customers to make water delivery efficient, transparent, and reliable.
+
+### Key Value Proposition
+
+- **Transparency**: Clear pricing, verified water quality, tracked deliveries
+- **Reliability**: Scheduled deliveries, real-time availability, dependable service
+- **Efficiency**: Optimized routes, reduced fuel waste, better coordination
+
+---
+
+## The Problem
+
+### The Challenge We're Solving
+
+Ghana's informal water delivery market operates inefficiently, causing problems for all stakeholders:
+
+#### For Drivers (Tanker Operators)
+
+**Problem: Wasted Time & Fuel**
+
+Drivers waste hours searching for depots with available water, burning fuel and losing income while their families wait.
+
+**Specific Pain Points**:
+- No visibility into which depots have water available
+- Drive from depot to depot hoping to find water
+- Burn expensive fuel searching
+- Lose income during search time
+- Families wait at home without water
+
+#### For Customers (Homes and Businesses)
+
+**Problem: Unreliable Delivery**
+
+Homes and businesses can't plan around water delivery. Uncertain arrival times, opaque pricing, and unknown water quality leave families and businesses struggling.
+
+**Specific Pain Points**:
+- Cannot schedule deliveries in advance
+- Don't know when water will arrive
+- Pricing varies unpredictably
+- No way to verify water source or quality
+- Businesses can't plan operations around water availability
+- Families struggle with uncertainty
+
+#### For The System (Depots and Infrastructure)
+
+**Problem: A Market Running on Hope**
+
+The informal water market operates on phone calls, cash, and personal relationships. No one has the data needed to coordinate supply and demand efficiently.
+
+**Specific Pain Points**:
+- No centralized visibility into demand
+- Cannot forecast needs accurately
+- Cash-based transactions without tracking
+- No operational data for decision-making
+- Inefficient resource allocation
+- Cannot identify bottlenecks or optimize
+
+---
+
+## The Solution
+
+### One Platform. Three Solutions.
+
+Clearwater provides a unified platform that solves problems for all stakeholders simultaneously.
+
+#### For Drivers: Find Water Faster
+
+**Features**:
+- Real-time depot availability (see which depots have water right now)
+- Optimized route planning (find the fastest route to available water)
+- Digital payment processing (no more cash hassles)
+- Customer management tools (track deliveries and build relationships)
+
+**Outcome**: Save fuel. Earn more. Work smarter.
+
+#### For Customers: Reliable Delivery
+
+**Features**:
+- Transparent pricing (know the cost upfront)
+- Scheduled deliveries (plan when water arrives)
+- Verified water quality (know your water source is safe)
+- Digital payment options (pay securely online)
+
+**Outcome**: Get water when you need it, from sources you trust.
+
+#### For Depots: Complete Visibility
+
+**Features**:
+- Real-time transaction monitoring (see all sales as they happen)
+- Automated record-keeping (digital records of all transactions)
+- Demand forecasting (predict future water needs)
+- Inventory management (track water levels and optimize supply)
+
+**Outcome**: Turn operational data into better decisions.
+
+---
+
+## How It Works
+
+### Simple. Digital. Transparent.
+
+#### Step 1: Depots Join Network
+
+Depot owners register on the Clearwater platform and share real-time water availability information.
+
+**What Happens**:
+- Depot creates account
+- Shares location and capacity
+- Updates availability in real-time
+- Receives requests from drivers
+
+#### Step 2: Drivers Connect
+
+Tanker operators use Clearwater to find available depots and optimize their routes.
+
+**What Happens**:
+- Driver checks app for depot availability
+- System shows nearest depots with water
+- Driver selects optimal route
+- Picks up water efficiently
+
+#### Step 3: Customers Order
+
+Homes and businesses request delivery with transparent pricing and scheduling.
+
+**What Happens**:
+- Customer submits delivery request
+- System shows available time slots
+- Clear pricing displayed upfront
+- Delivery scheduled and confirmed
+
+#### Step 4: Everyone Wins
+
+Efficient delivery. Verified quality. Complete transparency.
+
+**Results**:
+- Drivers save time and fuel costs
+- Customers receive reliable service
+- Depots gain operational insights
+- System becomes more efficient over time
+
+---
+
+## Launch Timeline
+
+### Coming to Accra — 2026
+
+Clearwater is launching in Greater Accra in 2026.
+
+#### Our Approach
+
+**Methodical and Relationship-Driven**:
+
+We're spending 2025 building relationships with depot owners, recruiting driver partners, and signing commercial clients to ensure the platform serves real needs from day one.
+
+**Not Disruption — Coordination**:
+
+This isn't about disruption—it's about coordination. We're organizing the existing informal market to work better for everyone: drivers save time and fuel, customers get reliable service, and depots gain the operational tools to manage their business more effectively.
+
+#### Geographic Strategy
+
+**Phase 1**: Greater Accra Region, Ghana (2026)
+**Long-term Vision**: Scaling across Africa
+
+We're starting in Accra where the need is greatest and infrastructure allows for rapid deployment, then expanding to other major African cities facing similar water delivery challenges.
+
+---
+
+## About the Founder
+
+### Ryan York - Founder & CEO
+
+#### Background
+
+Clearwater is founded by Ryan York, a systems builder with 20 years of experience scaling complex operations—from education networks serving 10,000+ students to technology platforms used by 50,000+ people.
+
+#### Why Water? Why Now?
+
+After 15 years in education, Ryan kept running into a deeper barrier he couldn't solve from inside a classroom: students struggling not because they lacked intelligence, but because they lacked stability. The chaos of poverty consumed the cognitive energy that should have been available for learning.
+
+#### The Global Water Crisis
+
+**The Numbers**:
+- **2 billion people** — one out of every four human beings — lack reliable access to clean water
+- **200 million hours** spent every day by women and girls collecting water
+- **1,000+ children** die every day from water-related diseases
+
+**The Paradox**:
+This happens on a planet that is 71% water.
+
+**The Conclusion**:
+It is an engineering absurdity. A systemic failure so massive that Ryan couldn't look away.
+
+#### The Mission
+
+Clearwater is the first step in a mission to make water access universal. We're building infrastructure, not just an app. We're here for the long haul.
+
+#### Connect with Ryan
+
+- **Email**: ryan@clearwaterafrica.com
+- **LinkedIn**: https://www.linkedin.com/in/ryan-york-148356a9/
+- **Blog**: https://ryan584888.substack.com/
+
+---
+
+## Getting Involved
+
+### Join Us in Building Clearwater
+
+#### For Drivers or Fleet Owners
+
+**Learn how Clearwater can help you save time, reduce costs, and grow your business.**
+
+- Contact: ryan@clearwaterafrica.com
+- Subject: Driver Inquiry
+- We're recruiting early driver partners for the 2026 Accra launch
+
+#### For Businesses or Homeowners
+
+**Get early access to reliable water delivery when we launch in Accra.**
+
+- Sign up for updates on the website
+- Be among the first to use the platform
+- Provide input on features that matter to you
+
+#### For Partners or Investors
+
+**Interested in supporting our mission? Let's talk about how we can work together.**
+
+- Contact: ryan@clearwaterafrica.com
+- Subject: Partnership Inquiry
+- We're seeking partners who share our vision for universal water access
+
+---
+
+## Contact Information
+
+### Primary Contact
+
+- **Email**: ryan@clearwaterafrica.com
+- **Website**: https://clearwaterafrica.com
+
+### Social Media
+
+- **LinkedIn**: https://www.linkedin.com/in/ryan-york-148356a9/
+- **Facebook**: https://www.facebook.com/profile.php?id=61583881946200
+- **Blog (Substack)**: https://ryan584888.substack.com/
+
+### Location
+
+Launching in Greater Accra, Ghana - 2026
+
+### For Press and Media
+
+Contact ryan@clearwaterafrica.com with subject line "Press Inquiry"
+
+---
+
+## Additional Information for LLMs
+
+### Company Type
+Startup, Technology Platform, Social Enterprise, Infrastructure Development
+
+### Industry Tags
+Water delivery, logistics, technology, infrastructure, developing markets, Africa, Ghana, supply chain optimization, social impact
+
+### Target Market
+- Geography: Greater Accra Region, Ghana (expanding to other African cities)
+- Stakeholders: Water depot owners, tanker truck drivers, residential customers, commercial customers
+- Market Size: Informal water delivery is a multi-million dollar market in Accra alone
+
+### Technology
+- Platform: Web and mobile applications
+- Features: Real-time tracking, route optimization, digital payments, inventory management
+- Data: Transaction records, availability tracking, demand forecasting
+
+### Business Model
+Platform connecting depots, drivers, and customers with transaction fees and subscription services
+
+### Competitive Advantage
+- First-mover in organized water delivery platform in Ghana
+- Deep understanding of informal market dynamics
+- Relationship-first approach with stakeholders
+- Long-term infrastructure mindset
+
+### Related Topics
+- Water access in Africa
+- Informal market digitization
+- Supply chain optimization
+- Social impact technology
+- Infrastructure development
+- Ghana economic development
+- Sustainable development goals (SDG 6: Clean Water and Sanitation)
+
+---
+
+## Frequently Asked Questions
+
+### When will Clearwater launch?
+2026 in Greater Accra Region, Ghana
+
+### Who is the founder?
+Ryan York, a systems builder with 20 years of experience in education and technology
+
+### How can I get involved?
+Contact ryan@clearwaterafrica.com or sign up for updates on the website
+
+### What makes Clearwater different?
+We're building infrastructure, not just an app. We're coordinating the existing informal market rather than disrupting it, and we're committed to serving all stakeholders: drivers, customers, and depots.
+
+### Is this only for Ghana?
+We're starting in Accra, Ghana in 2026, with plans to scale across Africa
+
+### How does Clearwater make water access more reliable?
+By providing real-time visibility, transparent pricing, verified quality, and scheduled deliveries
+
+---
+
+This is a comprehensive llms-full.txt file for AI agents and language models.
+For a shorter version, see /llms.txt
+Learn more about llms.txt at https://llmstxt.org/
+
+Copyright © 2025 Clearwater Africa. All rights reserved.

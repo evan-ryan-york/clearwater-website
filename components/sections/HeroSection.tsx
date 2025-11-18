@@ -20,7 +20,6 @@ export function HeroSection() {
           loop
           muted
           playsInline
-          poster="/videos/hero-mobile.jpg"
           className="absolute inset-0 w-full h-full object-cover"
           aria-label="Background video showing water delivery operations in Ghana"
         >

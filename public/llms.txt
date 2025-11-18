@@ -1,0 +1,88 @@
+# Clearwater Africa
+
+> Making water delivery work for everyone in Ghana
+
+## Overview
+
+Clearwater is a technology platform bringing transparency and reliability to water delivery in Ghana. We're launching in Greater Accra in 2026.
+
+## Quick Facts
+
+- **Company**: Clearwater Africa
+- **Location**: Accra, Ghana
+- **Launch**: 2026
+- **Founder**: Ryan York (20+ years scaling operations and education networks)
+- **Mission**: Make water access universal through infrastructure and technology
+- **Contact**: ryan@clearwaterafrica.com
+- **Website**: https://clearwaterafrica.com
+- **Blog**: https://ryan584888.substack.com/
+
+## The Problem
+
+1. **For Drivers**: Waste hours searching for depots with available water, burning fuel and losing income
+2. **For Customers**: Can't plan around water delivery - uncertain arrival times, opaque pricing, unknown water quality
+3. **For The System**: Informal water market operates on phone calls, cash, and personal relationships without coordination data
+
+## The Solution
+
+### Platform Benefits
+
+**For Drivers**
+- Real-time depot availability
+- Optimized route planning
+- Digital payment processing
+- Customer management tools
+
+**For Customers**
+- Transparent pricing
+- Scheduled deliveries
+- Verified water quality
+- Digital payment options
+
+**For Depots**
+- Real-time transaction monitoring
+- Automated record-keeping
+- Demand forecasting
+- Inventory management
+
+## How It Works
+
+1. **Depots Join Network**: Depot owners register and share real-time water availability
+2. **Drivers Connect**: Tanker operators find available depots and optimize routes
+3. **Customers Order**: Homes and businesses request delivery with transparent pricing
+4. **Everyone Wins**: Efficient delivery, verified quality, complete transparency
+
+## Founder Story
+
+Ryan York spent 15 years in education before realizing students struggled not from lack of intelligence, but from lack of stability. The chaos of poverty consumed cognitive energy needed for learning.
+
+**The Scale of the Problem**:
+- 2 billion people (1 in 4 humans) lack reliable access to clean water
+- Women and girls spend 200 million hours daily collecting water
+- 1,000+ children die daily from water-related diseases
+- This happens on a planet that is 71% water
+
+Clearwater is the first step in a mission to make water access universal.
+
+## Getting Involved
+
+- **Drivers/Fleet Owners**: Contact ryan@clearwaterafrica.com
+- **Businesses/Homeowners**: Sign up for updates when we launch
+- **Partners/Investors**: Email ryan@clearwaterafrica.com
+
+## Social Links
+
+- LinkedIn: https://www.linkedin.com/in/ryan-york-148356a9/
+- Facebook: https://www.facebook.com/profile.php?id=61583881946200
+- Blog: https://ryan584888.substack.com/
+
+## Additional Resources
+
+- Full content: /llms-full.txt
+- Sitemap: /sitemap.xml
+- Main site: https://clearwaterafrica.com
+
+---
+
+This is an llms.txt file for AI agents. Learn more at https://llmstxt.org/
+Last updated: 2025-11-13

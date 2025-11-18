@@ -1,0 +1,30 @@
+# robots.txt for Clearwater Africa
+# Allow all search engines to crawl the site
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://clearwaterafrica.com/sitemap.xml
+
+# LLM-specific file for AI agents
+# See https://llmstxt.org/ for more info
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Perplexity
+Allow: /
+
+# Reference llms.txt for structured AI access
+# /llms.txt - Quick reference guide for LLMs
+# /llms-full.txt - Complete site content for LLMs
