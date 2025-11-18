@@ -13,7 +13,7 @@ export function initPostHog() {
         api_host: posthogHost,
         capture_pageview: false, // We'll handle pageviews manually
         capture_pageleave: true, // Capture when users leave the page
-        loaded: (posthog) => {
+        loaded: () => {
           console.log('PostHog initialized successfully');
         },
       });
